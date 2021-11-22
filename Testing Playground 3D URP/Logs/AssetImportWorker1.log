@@ -512,3 +512,92 @@ Received Import Request.
 Start importing Assets/Scenes/VR Training Hub/Tutorial Draft1.unity using Guid(ded5669b87f57cc47a69e96946053b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '878e491382baeda7bbc597404662deb4') in 0.018797 seconds 
   Import took 0.033325 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 3980.362340 seconds.
+  path: Assets/Scenes/VR Training Hub/Hub UI.unity
+  artifactKey: Guid(70da0871784754447b7d47e6144339f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/VR Training Hub/Hub UI.unity using Guid(70da0871784754447b7d47e6144339f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e600fd9eba84c7e3105550cc910e71e2') in 0.026083 seconds 
+  Import took 0.080059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 664.582036 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(321006ad5d571474f929151ad5f8853e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(321006ad5d571474f929151ad5f8853e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '110a5d3c94e5c93f180ac3f3f7caecc8') in 0.010480 seconds 
+  Import took 0.026269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2746.208724 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(739eb363bbd2bab4087aeb5eb75edf65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(739eb363bbd2bab4087aeb5eb75edf65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7755378dde633ffa17b51fe4076e290f') in 0.037883 seconds 
+  Import took 0.054844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.566024 seconds.
+  path: Assets/Sprites/Simple Icons/HandRaised.jpg
+  artifactKey: Guid(1aedc4ff4a66a2546a1de66436d99461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Simple Icons/HandRaised.jpg using Guid(1aedc4ff4a66a2546a1de66436d99461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd847a4237b0c54e246bbf29759d85efe') in 0.319950 seconds 
+  Import took 0.333260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.217859 seconds.
+  path: Assets/Sprites/Simple Icons/Speaker.jpg
+  artifactKey: Guid(d94794c8bfb119f4f845b97f9d017e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Simple Icons/Speaker.jpg using Guid(d94794c8bfb119f4f845b97f9d017e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcf0fb2284c8d60909638cda9bd1d68e') in 0.034875 seconds 
+  Import took 0.056790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.806262 seconds.
+  path: Assets/Sprites/Simple Icons/HandRaised.jpg
+  artifactKey: Guid(1aedc4ff4a66a2546a1de66436d99461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Simple Icons/HandRaised.jpg using Guid(1aedc4ff4a66a2546a1de66436d99461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcede3e8e5a65b4ab239bf45dd623989') in 0.167588 seconds 
+  Import took 0.187532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Sprites/Simple Icons/Speaker.jpg
+  artifactKey: Guid(d94794c8bfb119f4f845b97f9d017e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Simple Icons/Speaker.jpg using Guid(d94794c8bfb119f4f845b97f9d017e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '985babe2c1f44b415ac92dabe7efb1dc') in 0.056472 seconds 
+  Import took 0.076074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Sprites/Simple Icons/MicDisabled.jpg
+  artifactKey: Guid(3e9b6c93a5592f2439a75b81b0f49cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Simple Icons/MicDisabled.jpg using Guid(3e9b6c93a5592f2439a75b81b0f49cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1900a87a407eb3b3f6c4facaca3747c4') in 0.104310 seconds 
+  Import took 0.125222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Sprites/Simple Icons/Mic.jpg
+  artifactKey: Guid(619e6a6deed46074dbc4ac3ceacf46db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Simple Icons/Mic.jpg using Guid(619e6a6deed46074dbc4ac3ceacf46db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afb1d62a57c5e6bdd429527cf9f60991') in 0.124472 seconds 
+  Import took 0.141506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Sprites/Simple Icons/MicEnabled.jpg
+  artifactKey: Guid(7338c0f434f17c941892fbc554f2ea3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Simple Icons/MicEnabled.jpg using Guid(7338c0f434f17c941892fbc554f2ea3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '908ce0d91c3dee6f19e9e6be1f01a238') in 0.123385 seconds 
+  Import took 0.150825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Sprites/Simple Icons/SpeakerOn.jpg
+  artifactKey: Guid(e4678fa9b714ff442b7c04938e526e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Simple Icons/SpeakerOn.jpg using Guid(e4678fa9b714ff442b7c04938e526e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1065e2d6345d45b9b3b00d146d91dc8b') in 0.079348 seconds 
+  Import took 0.387118 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

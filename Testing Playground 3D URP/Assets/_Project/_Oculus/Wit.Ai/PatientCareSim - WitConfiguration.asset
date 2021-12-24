@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae5a46bda3295124c99b0e6537ac7252, type: 3}
+  m_Name: PatientCareSim - WitConfiguration
+  m_EditorClassIdentifier: 
+  application:
+    witConfiguration: {fileID: 0}
+    name: test
+    id: 226233312970645
+    lang: en
+    isPrivate: 0
+    createdAt: 2021-12-02T13:08:37-0800
+  configId: 297898ad695734a42a5a209af8502963
+  clientAccessToken: VW2OA3SU2RQG7JLY4Y4FG6Q7WF52UGAX
+  timeoutMS: 10000
+  endpointConfiguration:
+    uriScheme: 
+    authority: 
+    port: 0
+    witApiVersion: 
+    speech: 
+    message: 
+  entities: []
+  intents:
+  - witConfiguration: {fileID: 11400000}
+    id: 281677853904037
+    name: Alcohol
+    entities: []
+  - witConfiguration: {fileID: 11400000}
+    id: 2400785253391736
+    name: Describe_The_Problem
+    entities: []
+  - witConfiguration: {fileID: 11400000}
+    id: 627400365340917
+    name: Exacerbator
+    entities: []
+  - witConfiguration: {fileID: 11400000}
+    id: 4691887370872694
+    name: Other_Symptoms
+    entities: []
+  - witConfiguration: {fileID: 11400000}
+    id: 2990394317941525
+    name: Point_Pain_Specifically__Site_
+    entities: []
+  - witConfiguration: {fileID: 11400000}
+    id: 511505459817795
+    name: Problem_In_More_Detail
+    entities: []
+  - witConfiguration: {fileID: 11400000}
+    id: 438690754454625
+    name: Quantification
+    entities: []
+  - witConfiguration: {fileID: 11400000}
+    id: 654443672219441
+    name: Reliever
+    entities: []
+  - witConfiguration: {fileID: 11400000}
+    id: 1099920050750202
+    name: Timescale_Symptoms_Started
+    entities: []
+  - witConfiguration: {fileID: 11400000}
+    id: 4422316547866722
+    name: Trigger
+    entities: []
+  traits: []
